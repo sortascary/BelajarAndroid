@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BelajarAndroid</string>
+    <string-array name="operation">
+        <item>➕</item>
+        <item>➖</item>
+        <item>➗</item>
+        <item>✖</item>
+    </string-array>
+</resources>
